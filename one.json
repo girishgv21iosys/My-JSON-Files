@@ -1,6 +1,6 @@
 [
   {
-    "name": "Kitty",
+    "name": "Cibi",
     "species" : "cat",
     "foods": {
       "likes": ["fresh food"],
@@ -8,7 +8,7 @@
     }
   },
   {
-    "name": "Pupster",
+    "name": "Jemy",
     "species" : "dog",
     "foods": {
       "likes": ["tomatoes", "peas"],
@@ -16,7 +16,7 @@
     }
   },
   {
-    "name": "Tux",
+    "name": "Ficy",
     "species" : "cat",
     "foods": {
       "likes": ["fancy dishes"],
